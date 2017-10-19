@@ -10,6 +10,8 @@ The sentiment score reflects the point of view of an investor. Messages containi
 
 The system has been tested on data from [SemEval 2017 Task 5](http://alt.qcri.org/semeval2017/task5/).
 
-The system has been tested on the following datasets:
+The run the system, you can download the following datasets:
 * [Financial Microblogs](https://bitbucket.org/ssix-project/semeval-2017-task-5-subtask-1/)
 * [Financial News Headlines](https://bitbucket.org/ssix-project/semeval-2017-task-5-subtask-2/)
+
+Once downloaded, the datasets have to be placed into the ```data``` directory.
